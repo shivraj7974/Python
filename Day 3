@@ -1,0 +1,47 @@
+For next line --> \n
+
+print("hi "how r u" tell me ")  -> error
+
+print('hey i am \'a\ " good boy \"\ and this is car')
+
+print("HEY, 6,7)
+
+print("HEY", 6,7,sep="~")   ........> hey~6~7
+
+
+// Variable ------------
+
+it is like a container that holds data.
+
+a=1
+b=true
+c="shivraj"
+d=None
+
+Data Types ----
+
+a=22
+b=44
+c="shiv"
+print(a+b) --------?66
+d=true
+print(type(d))--------->bool
+print(type(a)) 
+print(type(c))  ------------>str
+e=1.1
+print(type(e)) -----------> float
+
+a= complex(4,5) ------------> complex no.
+
+
+//List - list of item of diffrenet data types , 
+//tupe - immutable -- change nhi ho skte 
+//dictionaly - collection of diff key value pair
+
+// in python everything is object 
+
+Operator ---- +,-,*,/
+print(15/6) -------------->2.5
+print(15//6) -------------> 2
+print(5%3) ----------->2
+print(5**3) -------------> 5*5*5 ------> 125
