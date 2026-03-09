@@ -1,0 +1,25 @@
+// String ---------- strings are immutable
+
+
+
+a = "Shivraj"
+b = "Singh!!!!!!!"
+
+print(len(a))
+print(a.upper())
+print(a.lower())
+// existing ko change nhi krega, new string return krega
+
+print(b.rstrip("!"))
+
+print(a.replace("shivraj","raj"))
+print(a.split(""))
+
+blogHeading = "intro to js"
+print(blogHeading.capitalize())   #intro to zero
+str1 = "welcome to center method"
+print(len(str1))
+print(len(str1.center(50)))
+print(a.count("shiv"))
+
+
