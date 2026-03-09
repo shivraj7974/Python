@@ -1,0 +1,48 @@
+// Typecasting 
+conversion of data type from one to another
+
+a=1
+b=2
+print(a+b) ---------> 12
+
+//
+a=3
+b=3
+print(int(a) + int(b))  ------------> 6
+
+types //
+
+1. explicite -- alg se, done by developer
+2. implicite --- done by python 
+
+
+///////////////////////////////////////////////
+
+Taking user input ----
+
+a= input()
+b=input("enter you name:")
+print("i am ",a)
+
+x=input("enter first no.")    //33
+y=input("enter second no.")   //33
+
+print(x+y)                   //3333
+print(int(x) + int(y))       // 66
+print(float(x) + float(y))   /// 66.00
+
+
+
+------------------------------*****************************-------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+                              
